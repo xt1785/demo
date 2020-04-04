@@ -1,2 +1,2 @@
 ver1.0 test
-v1.0 bug 修改后
+v1.0 bug 修改后  重新修正bug
