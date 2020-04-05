@@ -1,7 +1,8 @@
 ver1.0 test
 <<<<<<< Updated upstream
-v1.0 bug ÐÞ¸Äºó  ÖØÐÂÐÞÕýbug
+v1.0 bug ä¿®æ”¹åŽ  é‡æ–°ä¿®æ­£bug
 =======
-v1.0 bug ÐÞ¸Äºó
-v1.1¿ª·¢ÖÐ
+v1.0 bug ä¿®æ”¹åŽ
+v1.1å¼€å‘ä¸­
 >>>>>>> Stashed changes
+aaaaaaaaaaaaaaaaaa
